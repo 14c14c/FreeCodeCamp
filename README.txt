@@ -14,3 +14,5 @@ https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-
 
 5.Sea Level Predictor
 https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor
+
+My solution as .py files are in the corresponding folders.
